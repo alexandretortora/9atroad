@@ -1,0 +1,60 @@
+body {
+  background-color: #4B7BEC;
+  text-align: center;
+  margin: 0;
+  color: #000;
+}
+
+#logohead {
+  position: block;
+  width: 445px;
+  height: 160px;
+}
+
+
+#montanhas {
+  position: block;
+  width: 1920px;
+  height: 134px;
+  margin: 10 auto 72px;
+  margin-bottom: -25px;
+}
+
+.conteudo {
+  width: 1920px;
+  background-color: aliceblue;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+p {
+  width: 1000px;
+  margin: 0 auto 15px;
+}
+
+.line {
+  width: 1000px;
+  height: 0px;
+  margin: 0 auto 15px;
+  border: 1px rgb(97, 97, 97) solid;
+}
+
+h1 {
+  font-size: 25px;
+  margin-right: 680px;
+  padding-top: 20px;
+
+}
+
+h5 {
+  margin-right: 850px;
+}
+
+footer {
+  margin-top: -15px;
+  height: 105px;
+  background-color: #EBEBEB;
+}
